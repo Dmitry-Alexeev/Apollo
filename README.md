@@ -14,6 +14,6 @@
 • JavaScript, jQuery.
 • LESS, БЭМ-naming, fancybox.
 ## Ссылка на хостинге
-http://dmitryironcity.zzz.com.ua/portfolio/subprojects/apollo/index.html
-## Код на GitHub
-https://dmitry-alexeev.github.io/portfolio------docs/subprojects/apollo/index.html
+ http://dmitryironcity.zzz.com.ua/portfolio/subprojects/apollo/index.html
+## Demo на GitHub Pages
+ https://dmitry-alexeev.github.io/Apollo/
